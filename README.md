@@ -43,7 +43,6 @@ Ideal for low-power edge devices like the Raspberry Pi where efficiency matters.
 project/
 ├── main.ipynb          # Run lane & obstacle detection on pre-recorded video
 ├── main_picam.ipynb    # Run real-time detection with Raspberry Pi Camera
-├── assets/             # (Optional) Folder for test videos or sample images
 └── README.md
 ````
 
