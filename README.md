@@ -5,6 +5,7 @@ A real-time self-driving visual system using **classical image processing** on a
 
 Ideal for low-power edge devices like the Raspberry Pi where efficiency matters.
 
+
 ---
 
 ## 🔍 Features
@@ -109,6 +110,9 @@ sudo apt install -y python3-picamera2
    * Detect lanes (green lines)
    * Detect obstacles (red boxes)
    * Show driving decision text
+
+
+<img width="831" height="485" alt="image" src="https://github.com/user-attachments/assets/880e5f0b-00cd-4c11-829e-4f39718af21c" />
 
 ### 📷 Option 2: Real-Time with Pi Camera
 
