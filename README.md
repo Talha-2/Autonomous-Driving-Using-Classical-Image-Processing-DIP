@@ -160,17 +160,6 @@ sudo apt install -y python3-picamera2
 
 ---
 
-## 📸 Sample Outputs
-
-* **Day/Night Conditions**
-  Works under different lighting
-* **Overlays**
-  Green lanes, red obstacles, white command text
-* **Video Demos**
-  Included in submission ZIP
-
----
-
 ## ⚠️ Known Limitations
 
 * Struggles in poor lighting or lane markings
